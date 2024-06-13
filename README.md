@@ -1,3 +1,5 @@
+# This Repo Will Be Maintained Under [hao-ai-lab](https://github.com/hao-ai-lab/MuxServe)
+
 # MuxServe: Flexible Spatial-Temporal Multiplexing for LLM Serving [[paper](https://arxiv.org/abs/2404.02015)]
 
 MuxServe is an efficient multiple LLMs serving system with flexible spatial-temporal multiplexing.
